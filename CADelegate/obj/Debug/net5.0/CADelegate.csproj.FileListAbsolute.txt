@@ -1,0 +1,16 @@
+C:\Users\Youya\OneDrive\Desktop\Projects\CADelegate\CADelegate\obj\Debug\net5.0\CADelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youya\OneDrive\Desktop\Projects\CADelegate\CADelegate\obj\Debug\net5.0\CADelegate.AssemblyInfoInputs.cache
+C:\Users\Youya\OneDrive\Desktop\Projects\CADelegate\CADelegate\obj\Debug\net5.0\CADelegate.AssemblyInfo.cs
+C:\Users\Youya\OneDrive\Desktop\Projects\CADelegate\CADelegate\obj\Debug\net5.0\CADelegate.csproj.CoreCompileInputs.cache
+C:\Users\Youya\OneDrive\Desktop\Projects\CADelegate\CADelegate\bin\Debug\net5.0\CADelegate.exe
+C:\Users\Youya\OneDrive\Desktop\Projects\CADelegate\CADelegate\bin\Debug\net5.0\CADelegate.deps.json
+C:\Users\Youya\OneDrive\Desktop\Projects\CADelegate\CADelegate\bin\Debug\net5.0\CADelegate.runtimeconfig.json
+C:\Users\Youya\OneDrive\Desktop\Projects\CADelegate\CADelegate\bin\Debug\net5.0\CADelegate.runtimeconfig.dev.json
+C:\Users\Youya\OneDrive\Desktop\Projects\CADelegate\CADelegate\bin\Debug\net5.0\CADelegate.dll
+C:\Users\Youya\OneDrive\Desktop\Projects\CADelegate\CADelegate\bin\Debug\net5.0\ref\CADelegate.dll
+C:\Users\Youya\OneDrive\Desktop\Projects\CADelegate\CADelegate\bin\Debug\net5.0\CADelegate.pdb
+C:\Users\Youya\OneDrive\Desktop\Projects\CADelegate\CADelegate\obj\Debug\net5.0\CADelegate.dll
+C:\Users\Youya\OneDrive\Desktop\Projects\CADelegate\CADelegate\obj\Debug\net5.0\ref\CADelegate.dll
+C:\Users\Youya\OneDrive\Desktop\Projects\CADelegate\CADelegate\obj\Debug\net5.0\CADelegate.pdb
+C:\Users\Youya\OneDrive\Desktop\Projects\CADelegate\CADelegate\obj\Debug\net5.0\CADelegate.genruntimeconfig.cache
+C:\Users\Youya\OneDrive\Desktop\Projects\CADelegate\CADelegate\obj\Debug\net5.0\CADelegate.csprojAssemblyReference.cache
