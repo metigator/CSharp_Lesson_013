@@ -1,0 +1,14 @@
+D:\ProjectsMetigator\CSharp_Lesson_013\Delegates\AfterDelegate\obj\Debug\net7.0\AfterDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsMetigator\CSharp_Lesson_013\Delegates\AfterDelegate\obj\Debug\net7.0\AfterDelegate.AssemblyInfoInputs.cache
+D:\ProjectsMetigator\CSharp_Lesson_013\Delegates\AfterDelegate\obj\Debug\net7.0\AfterDelegate.AssemblyInfo.cs
+D:\ProjectsMetigator\CSharp_Lesson_013\Delegates\AfterDelegate\obj\Debug\net7.0\AfterDelegate.csproj.CoreCompileInputs.cache
+D:\ProjectsMetigator\CSharp_Lesson_013\Delegates\AfterDelegate\bin\Debug\net7.0\AfterDelegate.exe
+D:\ProjectsMetigator\CSharp_Lesson_013\Delegates\AfterDelegate\bin\Debug\net7.0\AfterDelegate.deps.json
+D:\ProjectsMetigator\CSharp_Lesson_013\Delegates\AfterDelegate\bin\Debug\net7.0\AfterDelegate.runtimeconfig.json
+D:\ProjectsMetigator\CSharp_Lesson_013\Delegates\AfterDelegate\bin\Debug\net7.0\AfterDelegate.dll
+D:\ProjectsMetigator\CSharp_Lesson_013\Delegates\AfterDelegate\bin\Debug\net7.0\AfterDelegate.pdb
+D:\ProjectsMetigator\CSharp_Lesson_013\Delegates\AfterDelegate\obj\Debug\net7.0\AfterDelegate.dll
+D:\ProjectsMetigator\CSharp_Lesson_013\Delegates\AfterDelegate\obj\Debug\net7.0\refint\AfterDelegate.dll
+D:\ProjectsMetigator\CSharp_Lesson_013\Delegates\AfterDelegate\obj\Debug\net7.0\AfterDelegate.pdb
+D:\ProjectsMetigator\CSharp_Lesson_013\Delegates\AfterDelegate\obj\Debug\net7.0\AfterDelegate.genruntimeconfig.cache
+D:\ProjectsMetigator\CSharp_Lesson_013\Delegates\AfterDelegate\obj\Debug\net7.0\ref\AfterDelegate.dll
